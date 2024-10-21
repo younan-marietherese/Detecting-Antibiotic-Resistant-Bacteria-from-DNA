@@ -10,10 +10,13 @@ Antibiotic resistance is a growing threat in healthcare, and identifying resista
 ---
 
 ## Objectives
-- Preprocess DNA sequence data and extract relevant genetic features.
-- Train machine learning models to classify bacterial strains as resistant or non-resistant based on their DNA sequences.
-- Evaluate the performance of the model using accuracy, precision, recall, and other relevant metrics.
-- Explore potential biomarkers or gene sequences that are indicative of antibiotic resistance.
+Developed a machine learning model to predict antibiotic-resistant bacteria from DNA sequences.
+•	Employed advanced AI Algorithms for data processing and analysis.
+•	Performed data pre-processing and visualization.
+•	Developed and trained various classifiers using Sklearn.
+•	Tuned hyperparameters to optimize model performance.
+•	Evaluated model performance using appropriate metrics. 
+•	Achieved high performance with Precision (0.95), Recall (0.83), F1 Score (0.95), and Accuracy (0.97). 
 
 ---
 
