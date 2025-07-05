@@ -1,5 +1,7 @@
 # Detecting Antibiotic Resistant Bacteria from DNA
 
+This project is part of the AUB Artificial Intelligence and Data Science Professional Graduate Diploma and earned **Top 1** placement on the leaderboard.
+
 This project aims to detect antibiotic-resistant bacteria by analyzing DNA sequences. The goal is to identify specific genetic markers or mutations in bacterial DNA that confer resistance to antibiotics, using machine learning or bioinformatics approaches.
 
 ---
